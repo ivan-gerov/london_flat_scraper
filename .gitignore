@@ -1,0 +1,5 @@
+env/
+__pycache__/
+API_KEYS.ini
+main.db
+.vscode/
