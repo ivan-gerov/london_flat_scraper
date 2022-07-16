@@ -10,7 +10,7 @@ import geopy.distance
 from rightmove_webscraper import RightmoveData
 from bs4 import BeautifulSoup
 
-from .models import Flat
+from .models import Flat, session
 from .constants import API_KEYS, POIS, TOTENHAM_COURT_ROAD_COORDINATES
 
 OR = "%2C"
@@ -31,7 +31,7 @@ config.read(API_KEYS)
 API_KEYS = config["DEFAULT"]
 
 
-class RightmoveScraperV2(RightmoveData):
+class RightmoveScraper(RightmoveData):
     def __init__(
         self,
         url: str,
@@ -82,14 +82,13 @@ class RightmoveScraperV2(RightmoveData):
         self._results.to_csv(fp)
 
     def save_to_db(self):
-        def foo(data):
-            try:
-                Flat(**data.to_dict()).create()
-            except Exception as e:
-                breakpoint()
-                pass
+        current_flats = len(session.query(Flat).all())
 
-        self._results.apply(foo, axis=1)
+        def add_to_db(data):
+            Flat(**data.to_dict()).create()
+
+        self._results.apply(add_to_db, axis=1)
+        print(f"Added {len(session.query(Flat).all()) - current_flats} new flats to db")
 
     @staticmethod
     def get_available_date(data):
@@ -169,6 +168,7 @@ class RightmoveScraperV2(RightmoveData):
             distance = geopy.distance.geodesic(
                 coordinates, tuple(poi_place_coordinates.values())
             ).km
+            print(distance)
             if closest_distance and distance < closest_distance:
                 closest_distance = distance
             elif not closest_distance:

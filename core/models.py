@@ -1,24 +1,32 @@
+from datetime import datetime
 from dateutil.parser import parse
 
+import requests
 import pandas as pd
+from bs4 import BeautifulSoup
 from sqlalchemy import Column, Float, Integer, String, DateTime, create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
+engine = create_engine(f"sqlite:///main.db")
+Session = sessionmaker()
+Session.configure(bind=engine)
+session = Session()
+
 Base = declarative_base()
 
 
-class Flat(Base):
-    __tablename__ = "flat"
-    flat_id = Column(Integer, primary_key=True)
-    price = Column(Integer)
-    flat_type = Column(String)
+class Property(Base):
+    __tablename__ = "property"
+    property_id = Column(Integer, primary_key=True)
+    price = Column(Float)
+    bedrooms = Column(Integer)
+    property_type = Column(String)
     address = Column(String)
     url = Column(String)
     postcode = Column(String)
-    full_postcode = Column(String)
-    available_date = Column(DateTime)
     lat_lon = Column(String)
+    available_date = Column(DateTime)
     closest_aldi = Column(Float)
     closest_sainsburys = Column(Float)
     closest_tesco = Column(Float)
@@ -30,14 +38,15 @@ class Flat(Base):
 
     def __init__(
         self,
+        property_id,
         price,
-        type,
+        bedrooms,
+        property_type,
         address,
         url,
         postcode,
-        full_postcode=None,
-        available_date=None,
         lat_lon=None,
+        available_date=None,
         closest_aldi=None,
         closest_sainsburys=None,
         closest_tesco=None,
@@ -48,15 +57,13 @@ class Flat(Base):
         minutes_from_TCR=None,
         **kwargs,
     ):
+        self.property_id = property_id
         self.price = price
-        self.flat_type = type
+        self.bedrooms = bedrooms
+        self.property_type = property_type
         self.address = address
         self.url = url
         self.postcode = postcode
-        self.full_postcode = full_postcode
-        self.available_date = (
-            parse(available_date) if not pd.isna(available_date) else None
-        )
         self.lat_lon = lat_lon
         self.closest_aldi = closest_aldi
         self.closest_sainsburys = closest_sainsburys
@@ -66,22 +73,47 @@ class Flat(Base):
         self.closest_lidl = closest_lidl
         self.closest_boots = closest_boots
         self.minutes_from_TCR = minutes_from_TCR
+        self.available_date = available_date
 
     def create(self):
-        flats = session.query(self.__class__).filter(Flat.address == self.address).all()
-        if flats:
+        properties = (
+            session.query(self.__class__)
+            .filter(Property.property_id == self.property_id)
+            .all()
+        )
+        if properties:
             return
         else:
             session.add(self)
             session.commit()
 
     def remove(self):
+        print(self.url)
         session.delete(self)
+        session.commit()
+
+    @classmethod
+    def remove_obsolete(cls):
+        properties = session.query(cls).all()
+        print(f"Currently {len(properties)} properties in database.")
+        for property in properties:
+            soup = BeautifulSoup(requests.get(property.url).text, features="lxml")
+            # Check if property is unpublished
+            if len(soup.find_all("div", class_="propertyUnpublished")):
+                property.remove()
+
+            for div in soup.find_all("div"):
+                if "This property has been removed by the agent" in div.text:
+                    property.remove()
+                    break
+
+            # Check if let is agreed
+            for span in soup.find_all("span"):
+                if "LET AGREED" in span or "UNDER OFFER" in span:
+                    property.remove()
+                    break
+
+        print(f"{len(properties) - len(session.query(cls).all())} properties removed.")
 
 
-engine = create_engine(f"sqlite:///main.db")
-Session = sessionmaker()
-Session.configure(bind=engine)
-session = Session()
-
-Flat.__table__.create(bind=engine, checkfirst=True)
+Property.__table__.create(bind=engine, checkfirst=True)
