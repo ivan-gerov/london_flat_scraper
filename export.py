@@ -1,7 +1,9 @@
-from core.scraper import RightmoveScraperV2, URL, PARAMS
-from core.constants import DATASETS
-import pandas as pd
+from core.models import Property
+from core.scraper_v2 import RightmoveScraperV2
 
-scraper = RightmoveScraperV2(url=URL, params=PARAMS, additional_info=True)
-scraper.save_results(f"{DATASETS}/demo_available.csv")
-scraper.save_to_db()
+Property.remove_obsolete()
+scraper = RightmoveScraperV2(
+    "https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=STATION%5E245&minBedrooms=1&maxPrice=1750&radius=5.0&propertyTypes=&maxDaysSinceAdded=1&includeLetAgreed=false&mustHave=&dontShow=houseShare%2Cretirement%2Cstudent&furnishTypes=&keywords=",
+    additional_info=True,
+)
+scraper.store()

@@ -1,6 +1,7 @@
 import os
 import re
 from dateutil import parser
+from datetime import datetime, timedelta
 
 from marshmallow import Schema, fields, post_load, pre_load, EXCLUDE
 
@@ -16,11 +17,14 @@ class PropertySchema(Schema, PoiFields):
     class Meta:
         unknown = EXCLUDE
 
-    id = fields.Integer(data_key="id")
-    date_added = fields.Date(data_key="firstVisibleDate", format="%Y-%m-%dT%H:%M:%S%z")
-    date_available = fields.Date(data_key="available_date", format="%Y-%m-%d %H:%M:%S")
+    property_id = fields.Integer(data_key="id")
+    date_added = fields.Date(format="%Y-%m-%d")
+    date_available = fields.Date(
+        data_key="available_date", format="%Y-%m-%d %H:%M:%S", allow_none=True
+    )
     price = fields.Integer()
     bedrooms = fields.Integer()
+    address = fields.String(data_key="displayAddress")
     lat_lon = fields.String()
     images = fields.List(fields.String())
     url = fields.Url()
@@ -50,9 +54,9 @@ class PropertySchema(Schema, PoiFields):
         propertyImages = data["propertyImages"].copy()
         if propertyImages.get("images"):
             propertyImages = propertyImages["images"]
-        data["images"] = []
-        for image in propertyImages:
-            data["images"].append(image["srcUrl"])
+            data["images"] = []
+            for image in propertyImages:
+                data["images"].append(image["srcUrl"])
         return data
 
     @pre_load
@@ -66,4 +70,16 @@ class PropertySchema(Schema, PoiFields):
         data[
             "url"
         ] = f"https://www.rightmove.co.uk/properties/{data['id']}#/?channel=RES_LET"
+        return data
+
+    @pre_load
+    def process_date_added(self, data, **kwargs):
+        date_added = data["addedOrReduced"]
+        if "today" in date_added:
+            data["date_added"] = datetime.today().date()
+        elif "yesterday" in date_added:
+            data["date_added"] = (datetime.today() - timedelta(days=1)).date()
+        else:
+            data["date_added"] = parser.parse(date_added, fuzzy=True).date()
+        data["date_added"] = data["date_added"].strftime("%Y-%m-%d")
         return data

@@ -19,14 +19,13 @@ Base = declarative_base()
 class Property(Base):
     __tablename__ = "property"
     property_id = Column(Integer, primary_key=True)
-    price = Column(Float)
+    price = Column(Integer)
     bedrooms = Column(Integer)
-    property_type = Column(String)
     address = Column(String)
     url = Column(String)
-    postcode = Column(String)
     lat_lon = Column(String)
-    available_date = Column(DateTime)
+    date_available = Column(DateTime)
+    date_added = Column(DateTime)
     closest_aldi = Column(Float)
     closest_sainsburys = Column(Float)
     closest_tesco = Column(Float)
@@ -41,12 +40,11 @@ class Property(Base):
         property_id,
         price,
         bedrooms,
-        property_type,
         address,
         url,
-        postcode,
         lat_lon=None,
-        available_date=None,
+        date_available=None,
+        date_added=None,
         closest_aldi=None,
         closest_sainsburys=None,
         closest_tesco=None,
@@ -60,10 +58,8 @@ class Property(Base):
         self.property_id = property_id
         self.price = price
         self.bedrooms = bedrooms
-        self.property_type = property_type
         self.address = address
         self.url = url
-        self.postcode = postcode
         self.lat_lon = lat_lon
         self.closest_aldi = closest_aldi
         self.closest_sainsburys = closest_sainsburys
@@ -73,7 +69,8 @@ class Property(Base):
         self.closest_lidl = closest_lidl
         self.closest_boots = closest_boots
         self.minutes_from_TCR = minutes_from_TCR
-        self.available_date = available_date
+        self.date_available = date_available
+        self.date_added = date_added
 
     def create(self):
         properties = (
@@ -96,7 +93,13 @@ class Property(Base):
     def remove_obsolete(cls):
         properties = session.query(cls).all()
         print(f"Currently {len(properties)} properties in database.")
+
+        date_today = datetime.today()
         for property in properties:
+            # Property older than 30 days
+            if (date_today - property.date_added).days > 30:
+                property.remove()
+
             soup = BeautifulSoup(requests.get(property.url).text, features="lxml")
             # Check if property is unpublished
             if len(soup.find_all("div", class_="propertyUnpublished")):

@@ -39,19 +39,11 @@ class RightmoveScraperV2:
         if additional_info:
             self.process_additional_info()
 
-    @staticmethod
-    def store(data):
+    def store(self):
         schema = PropertySchema(many=True)
-        loaded_data = schema.load(data)
-        from pprint import pprint
-
-        breakpoint()
-
-        # breakpoint()
-        # with open(f"{DATASETS}/demo_export.json", "w") as f: f.write(schema.dump(self.properties))
-        # properties = schema.load(self.properties)
-        # for property in properties:
-        #     Property(**property).create()
+        loaded_properties = schema.load(self.properties)
+        for property in loaded_properties:
+            Property(**property).create()
 
     @staticmethod
     def _process_api_params(url):
