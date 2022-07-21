@@ -1,0 +1,3821 @@
+[
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.49474, -0.09904",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.494740",
+        "lng": "-0.099040",
+        "anim": "0",
+        "title": "Sainsbury's Elephant & Castle",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "533",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49485, -0.18866",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49485",
+        "lng": "-0.18866",
+        "anim": "0",
+        "title": "Sainsbury's Cromwell Rd",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "534",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49282, -0.14105",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49282",
+        "lng": "-0.14105",
+        "anim": "0",
+        "title": "Sainsbury's Pimlico",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "535",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5173, -0.12068",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5173",
+        "lng": "-0.12068",
+        "anim": "0",
+        "title": "Sainsbury's Holborn",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "536",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50792, -0.14338",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50792",
+        "lng": "-0.14338",
+        "anim": "0",
+        "title": "Sainsbury's Mayfair",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "537",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.51743, -0.13151",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.517430",
+        "lng": "-0.131510",
+        "anim": "0",
+        "title": "Sainsbury's Tottenham Court Rd",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "538",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52071, -0.0588",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52071",
+        "lng": "-0.0588",
+        "anim": "0",
+        "title": "Sainsbury's Whitechapel",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "539",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48095, -0.19435",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48095",
+        "lng": "-0.19435",
+        "anim": "0",
+        "title": "Sainsbury\\'s Fulham Rd",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "540",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.53405, -0.10716",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.53405",
+        "lng": "-0.10716",
+        "anim": "0",
+        "title": "Sainsbury\\'s Islington",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "541",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.4974, -0.08991",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.4974",
+        "lng": "-0.08991",
+        "anim": "0",
+        "title": "Sainsbury's Southwark Great Dover St",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "542",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48138, -0.12806",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48138",
+        "lng": "-0.12806",
+        "anim": "0",
+        "title": "Sainsbury's Nine Elms",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "543",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52623, -0.21766",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52623",
+        "lng": "-0.21766",
+        "anim": "0",
+        "title": "Sainsbury's Ladbroke Grove",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "544",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.4932, -0.22904",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.4932",
+        "lng": "-0.22904",
+        "anim": "0",
+        "title": "Sainsbury's Hammersmith",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "545",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.54048, -0.14087",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.54048",
+        "lng": "-0.14087",
+        "anim": "0",
+        "title": "Sainsbury's Camden",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "546",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.46749, -0.18732",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.46749",
+        "lng": "-0.18732",
+        "anim": "0",
+        "title": "Sainsbury's Fulham Wharf",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "547",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5387, -0.19402",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5387",
+        "lng": "-0.19402",
+        "anim": "0",
+        "title": "Sainsbury's Kilburn",
+        "infoopen": "0",
+        "category": "16",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "548",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.48646, -0.11538",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.486911",
+        "lng": "-0.115392",
+        "anim": "0",
+        "title": "Tesco Superstore Kennington",
+        "infoopen": "0",
+        "category": "2",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "549",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.49285, -0.20135",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.492850",
+        "lng": "-0.201350",
+        "anim": "0",
+        "title": "Tesco Superstore Kensington",
+        "infoopen": "0",
+        "category": "2",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "550",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48879, -0.07604",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48879",
+        "lng": "-0.07604",
+        "anim": "0",
+        "title": "Tesco Superstore Southwark",
+        "infoopen": "0",
+        "category": "2",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "551",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49747, -0.22392",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49747",
+        "lng": "-0.22392",
+        "anim": "0",
+        "title": "Tesco Superstore Hammersmith",
+        "infoopen": "0",
+        "category": "2",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "552",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48828, -0.16703",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48828",
+        "lng": "-0.16703",
+        "anim": "0",
+        "title": "Waitrose King's Rd",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "555",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49898, -0.1981",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49898",
+        "lng": "-0.1981",
+        "anim": "0",
+        "title": "Waitrose Kensington",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "556",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49477, -0.18305",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49477",
+        "lng": "-0.18305",
+        "anim": "0",
+        "title": "Waitrose Gloucester Rd",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "557",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51738, -0.1661",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51738",
+        "lng": "-0.1661",
+        "anim": "0",
+        "title": "Waitrose Edgware Rd",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "558",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51945, -0.15192",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51945",
+        "lng": "-0.15192",
+        "anim": "0",
+        "title": "Waitrose Marylebone",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "559",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51671, -0.1548",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51671",
+        "lng": "-0.1548",
+        "anim": "0",
+        "title": "Waitrose Portman Square",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "560",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51498, -0.14531",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51498",
+        "lng": "-0.14531",
+        "anim": "0",
+        "title": "Waitrose Oxford St",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "561",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49741, -0.13709",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49741",
+        "lng": "-0.13709",
+        "anim": "0",
+        "title": "Waitrose Victoria",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "562",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51739, -0.11873",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51739",
+        "lng": "-0.11873",
+        "anim": "0",
+        "title": "Waitrose High Holborn",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "563",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51676, -0.18758",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51676",
+        "lng": "-0.18758",
+        "anim": "0",
+        "title": "Waitrose Bayswater",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "564",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5249, -0.12405",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5249",
+        "lng": "-0.12405",
+        "anim": "0",
+        "title": "Waitrose Bloomsbury",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "565",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.53752, -0.14176",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.53752",
+        "lng": "-0.14176",
+        "anim": "0",
+        "title": "Waitrose Camden",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "566",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.53398, -0.10713",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.53398",
+        "lng": "-0.10713",
+        "anim": "0",
+        "title": "Waitrose Islington",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "567",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50885, -0.19924",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50885",
+        "lng": "-0.19924",
+        "anim": "0",
+        "title": "Waitrose Notting Hill Gate",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "568",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50635, -0.21911",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50635",
+        "lng": "-0.21911",
+        "anim": "0",
+        "title": "Waitrose Westfield London",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "569",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49903, -0.15701",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49903",
+        "lng": "-0.15701",
+        "anim": "0",
+        "title": "Waitrose Belgravia",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "570",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52411, -0.10277",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52411",
+        "lng": "-0.10277",
+        "anim": "0",
+        "title": "Waitrose Clerkenwell",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "571",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52211, -0.09204",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52211",
+        "lng": "-0.09204",
+        "anim": "0",
+        "title": "Waitrose Barbican",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "572",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.47836, -0.14834",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.47836",
+        "lng": "-0.14834",
+        "anim": "0",
+        "title": "Waitrose Battersea",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "573",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50679, -0.06729",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50679",
+        "lng": "-0.06729",
+        "anim": "0",
+        "title": "Waitrose St Katherine Docks",
+        "infoopen": "0",
+        "category": "18",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "574",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.53641, -0.13998",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.53641",
+        "lng": "-0.13998",
+        "anim": "0",
+        "title": "Lidl Camden",
+        "infoopen": "0",
+        "category": "19",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "575",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.47343, -0.12065",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.47343",
+        "lng": "-0.12065",
+        "anim": "0",
+        "title": "Lidl Stockwell",
+        "infoopen": "0",
+        "category": "19",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "576",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.492, -0.08329",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.492",
+        "lng": "-0.08329",
+        "anim": "0",
+        "title": "Lidl Old Kent Rd",
+        "infoopen": "0",
+        "category": "19",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "577",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.54751, -0.14177",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.54751",
+        "lng": "-0.14177",
+        "anim": "0",
+        "title": "Lidl Kentish Town",
+        "infoopen": "0",
+        "category": "19",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "581",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.56244, -0.2206",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.56244",
+        "lng": "-0.2206",
+        "anim": "0",
+        "title": "Lidl Cricklewood",
+        "infoopen": "0",
+        "category": "19",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "585",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.54024, -0.19578",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.54024",
+        "lng": "-0.19578",
+        "anim": "0",
+        "title": "Aldi Kilburn High Rd",
+        "infoopen": "0",
+        "category": "20",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "587",
+        "categories": [
+            "20"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.48729, -0.09611",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.487290",
+        "lng": "-0.096110",
+        "anim": "0",
+        "title": "Morrisons Southwark",
+        "infoopen": "0",
+        "category": "22",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "591",
+        "categories": [
+            "22"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.54127, -0.14969",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.541270",
+        "lng": "-0.149690",
+        "anim": "0",
+        "title": "Morrisons Camden",
+        "infoopen": "0",
+        "category": "22",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "592",
+        "categories": [
+            "22"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51552, -0.13824",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51552",
+        "lng": "-0.13824",
+        "anim": "0",
+        "title": "M&S Pantheon Oxford St",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "594",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49713874658925, -0.13941745749295797",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49752",
+        "lng": "-0.14076",
+        "anim": "0",
+        "title": "M&S Simply Food:Victoria ",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "595",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50072, -0.19156",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50072",
+        "lng": "-0.19156",
+        "anim": "0",
+        "title": "M&S Kensington",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "596",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51401, -0.1541",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51401",
+        "lng": "-0.1541",
+        "anim": "0",
+        "title": "M&S Marble Arch",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "598",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51965, -0.16883",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51965",
+        "lng": "-0.16883",
+        "anim": "0",
+        "title": "M&S Edgware Rd",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "599",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51956, -0.08729",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51956",
+        "lng": "-0.08729",
+        "anim": "0",
+        "title": "M&S Finsbury Pavement",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "600",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48893, -0.16467",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48893",
+        "lng": "-0.16467",
+        "anim": "0",
+        "title": "M&S King's Rd",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "601",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50849, -0.22026",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50849",
+        "lng": "-0.22026",
+        "anim": "0",
+        "title": "M&S Westfield London",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "602",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52254, -0.15678",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52254",
+        "lng": "-0.15678",
+        "anim": "0",
+        "title": "M&S Baker St",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "603",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51186, -0.08429",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51186",
+        "lng": "-0.08429",
+        "anim": "0",
+        "title": "M&S Fenchurch St",
+        "infoopen": "0",
+        "category": "23",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "604",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51291, -0.13458",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51291",
+        "lng": "-0.13458",
+        "anim": "0",
+        "title": "Co-op Berwick St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "606",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50946, -0.06352",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50946",
+        "lng": "-0.06352",
+        "anim": "0",
+        "title": "Co-op Food Shadwell",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "607",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49218, -0.19364",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49218",
+        "lng": "-0.19364",
+        "anim": "0",
+        "title": "Co-op Food Earl's Court",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "608",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48436, -0.20197",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48436",
+        "lng": "-0.20197",
+        "anim": "0",
+        "title": "Co-op Food Fulham North End Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "609",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48277, -0.21328",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48277",
+        "lng": "-0.21328",
+        "anim": "0",
+        "title": "Co-op Food Fulham Lillie Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "610",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.47487, -0.20086",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.47487",
+        "lng": "-0.20086",
+        "anim": "0",
+        "title": "Co-op Food Parsons Green",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "611",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52564, -0.09057",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52564",
+        "lng": "-0.09057",
+        "anim": "0",
+        "title": "Co-op Food Shoreditch",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "612",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50832, -0.12627",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50832",
+        "lng": "-0.12627",
+        "anim": "0",
+        "title": "Co-op Food The Strand",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "613",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5196, -0.14228",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5196",
+        "lng": "-0.14228",
+        "anim": "0",
+        "title": "Co-op Food Great Portland St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "614",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5198, -0.13204",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5198",
+        "lng": "-0.13204",
+        "anim": "0",
+        "title": "Co-op Food Great Store St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "615",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52508, -0.16025",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52508",
+        "lng": "-0.16025",
+        "anim": "0",
+        "title": "Co-op Food Regents Park Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "616",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52494, -0.20273",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52494",
+        "lng": "-0.20273",
+        "anim": "0",
+        "title": "Co-op Food Paddington",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "617",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.48164, -0.18076",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.48164",
+        "lng": "-0.18076",
+        "anim": "0",
+        "title": "Co-op Food Chelsea Kings Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "618",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50045, -0.09923",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50045",
+        "lng": "-0.09923",
+        "anim": "0",
+        "title": "Co-op Food Southwark Bridge Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "619",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49708, -0.08903",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49708",
+        "lng": "-0.08903",
+        "anim": "0",
+        "title": "Co-op Food Great Dover St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "620",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51472, -0.0973",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51472",
+        "lng": "-0.0973",
+        "anim": "0",
+        "title": "Co-op Food St Paul's",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "621",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49971, -0.07866",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49971",
+        "lng": "-0.07866",
+        "anim": "0",
+        "title": "Co-op Food Tower Bridge Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "622",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51396, -0.10401",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51396",
+        "lng": "-0.10401",
+        "anim": "0",
+        "title": "Co-op Food Ludgate Circus",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "623",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "0": "0",
+        "map_id": "50",
+        "address": "51.51652, -0.07663",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.516520",
+        "lng": "-0.076630",
+        "anim": "0",
+        "title": "Co-op Food Middlesex St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "624",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52558, -0.08269",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52558",
+        "lng": "-0.08269",
+        "anim": "0",
+        "title": "Co-op Food Great Eastern St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "625",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52201, -0.11391",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52201",
+        "lng": "-0.11391",
+        "anim": "0",
+        "title": "Co-op Food Grays Inn Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "626",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50041, -0.07317",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50041",
+        "lng": "-0.07317",
+        "anim": "0",
+        "title": "Co-op Food Southwark Mill St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "627",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5377, -0.13052",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5377",
+        "lng": "-0.13052",
+        "anim": "0",
+        "title": "Co-op Food Camden Camley St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "628",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50007, -0.11357",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50007",
+        "lng": "-0.11357",
+        "anim": "0",
+        "title": "Co-op Food Dover House, Lower Marsh",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "629",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50622, -0.10072",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50622",
+        "lng": "-0.10072",
+        "anim": "0",
+        "title": "Co-op Food Sumner St",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "630",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51069, -0.21648",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51069",
+        "lng": "-0.21648",
+        "anim": "0",
+        "title": "Co-op Food Notting Hill St Anne's Rd",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "631",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51396, -0.11772",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51396",
+        "lng": "-0.11772",
+        "anim": "0",
+        "title": "Co-op Food Holborn",
+        "infoopen": "0",
+        "category": "24",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "632",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5034980335248,-0.21983957150951028",
+        "description": "<p>W12 Shopping Centre,<br />London W12 8PP</p>",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5034980335248",
+        "lng": "-0.21983957150951028",
+        "anim": "0",
+        "title": "Lidl Shepherd's Bush",
+        "infoopen": "0",
+        "category": "19",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "651",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52435196090685, -0.13729257374090442",
+        "description": "145 Tottenham Court Rd\nLondon W1T 7NE",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52435196090685",
+        "lng": "-0.13729257374090442",
+        "anim": "0",
+        "title": "Lidl Tottenham Court Rd",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "678",
+        "categories": [
+            "19"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.537614526627316, -0.14171144490434406",
+        "description": "125-133 Camden High St\nLondon, NW1 7JR",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.537614526627316",
+        "lng": "-0.14171144490434406",
+        "anim": "0",
+        "title": "Aldi Camden",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "679",
+        "categories": [
+            "20"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.524708207481716, -0.17587240231817514",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.526564379280686",
+        "lng": "-0.1752185041905373",
+        "anim": "0",
+        "title": "Aldi Edgware Rd",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "681",
+        "categories": [
+            "20"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.512305597986675, -0.12865475836205983",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.512305597986675",
+        "lng": "-0.12865475836205983",
+        "anim": "0",
+        "title": "Sainsbury's Local Leicester Square",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "682",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50901018770126, -0.12431884487123697",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50901018770126",
+        "lng": "-0.12431884487123697",
+        "anim": "0",
+        "title": "Sainsbury's Local Westminster The Strand",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "683",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51641938532475, -0.13598967741605492",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51641938532475",
+        "lng": "-0.13598967741605492",
+        "anim": "0",
+        "title": "Sainsbury's Oxford Circus Berners St Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "684",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51836265086025, -0.1385377197433023",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51836265086025",
+        "lng": "-0.1385377197433023",
+        "anim": "0",
+        "title": "Sainsbury's Mortimer St Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "685",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.518295889151005, -0.1384733467252201",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.518295889151005",
+        "lng": "-0.1384733467252201",
+        "anim": "0",
+        "title": "Sainsbury's Southampton Row Bloomsbury",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "686",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.5181094285497, -0.10850706417999734",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.5181094285497",
+        "lng": "-0.10850706417999734",
+        "anim": "0",
+        "title": "Sainsbury's Holborn Circus Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "687",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51774891213296, -0.10882892928018219",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51774891213296",
+        "lng": "-0.10882892928018219",
+        "anim": "0",
+        "title": "Sainsbury's Fetter Lane Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "688",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51298146975748, -0.10378641514953581",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51298146975748",
+        "lng": "-0.10378641514953581",
+        "anim": "0",
+        "title": "Sainsbury's The City Blackfriars Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "689",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.522325375720975, -0.10988598177374714",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.522325375720975",
+        "lng": "-0.10988598177374714",
+        "anim": "0",
+        "title": "Sainsbury's Clerkenwell Road Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "690",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50533340706754, -0.1013697583623854",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50533340706754",
+        "lng": "-0.1013697583623854",
+        "anim": "0",
+        "title": "Sainsbury's Great Suffolk St Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "691",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.503040726500636, -0.107490389053289",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.503040726500636",
+        "lng": "-0.107490389053289",
+        "anim": "0",
+        "title": "Sainsbury's Lambeth The Cut Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "692",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50314028525224, -0.11031804116268927",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50314028525224",
+        "lng": "-0.11031804116268927",
+        "anim": "0",
+        "title": "Sainsbury's Waterloo Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "693",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.504388857060256, -0.19363514672591015",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.504388857060256",
+        "lng": "-0.19363514672591015",
+        "anim": "0",
+        "title": "Sainsbury's Kensington Church St Local",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "694",
+        "categories": [
+            "16"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51662085538334, -0.1547033583618108",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51662085538334",
+        "lng": "-0.1547033583618108",
+        "anim": "0",
+        "title": "Co-op Portman Square",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "695",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.522745539224054, -0.1575003313795667",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.522745539224054",
+        "lng": "-0.1575003313795667",
+        "anim": "0",
+        "title": "Co-op London Baker St Station",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "696",
+        "categories": [
+            "24"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49810232508152, -0.14252741603543898",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49810232508152",
+        "lng": "-0.14252741603543898",
+        "anim": "0",
+        "title": "Waitrose Victoria Bressenden Place",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "697",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49244023905236, -0.17754057370845716",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49244023905236",
+        "lng": "-0.17754057370845716",
+        "anim": "0",
+        "title": "Little Waitrose Old Brompton Rd",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "698",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.49324148155844, -0.1357517960142907",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.49324148155844",
+        "lng": "-0.1357517960142907",
+        "anim": "0",
+        "title": "Little Waitrose Pimlico",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "700",
+        "categories": [
+            "18"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51210315184746, -0.11934255213340597",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51210315184746",
+        "lng": "-0.11934255213340597",
+        "anim": "0",
+        "title": "Tesco Express The Strand",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "701",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.514613666076215, -0.11221860479897483",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.514613666076215",
+        "lng": "-0.11221860479897483",
+        "anim": "0",
+        "title": "Tesco Express Fleet St",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "702",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51450683850203, -0.09161923901266796",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51450683850203",
+        "lng": "-0.09161923901266796",
+        "anim": "0",
+        "title": "Tesco Express Bank",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "703",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50857751529189, -0.12723897553534194",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50857751529189",
+        "lng": "-0.12723897553534194",
+        "anim": "0",
+        "title": "Tesco Express Charing Cross",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "704",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50398309456995, -0.11067365228221195",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50398309456995",
+        "lng": "-0.11067365228221195",
+        "anim": "0",
+        "title": "Tesco Express Waterloo Rd",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "705",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50937882020672, -0.1345345839224662",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50937882020672",
+        "lng": "-0.1345345839224662",
+        "anim": "0",
+        "title": "Tesco Express Regent St",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "706",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.508577515220296, -0.14586423510493496",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.508577515220296",
+        "lng": "-0.14586423510493496",
+        "anim": "0",
+        "title": "Tesco Express Mayfair",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "707",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52076920567809, -0.13996334317127074",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52076920567809",
+        "lng": "-0.13996334317127074",
+        "anim": "0",
+        "title": "Tesco Express New Cavendish",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "708",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52028837948927, -0.13397190069182652",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52028837948927",
+        "lng": "-0.13397190069182652",
+        "anim": "0",
+        "title": "Tesco Express Goodge St",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "709",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51247688927003, -0.1867749165446713",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51247688927003",
+        "lng": "-0.1867749165446713",
+        "anim": "0",
+        "title": "Tesco Express Queensway",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "710",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51274362349399, -0.1851334435589313",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51274362349399",
+        "lng": "-0.1851334435589313",
+        "anim": "0",
+        "title": "Bayswater Express",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "711",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.519380067746496, -0.1668085910781957",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.519380067746496",
+        "lng": "-0.1668085910781957",
+        "anim": "0",
+        "title": "Tesco Express Paddington",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "712",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51681640507756, -0.16088627443340717",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.516762993934556",
+        "lng": "-0.16011379719764596",
+        "anim": "0",
+        "title": "Tesco Express Marble Arch",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "713",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.521890180986226, -0.15479229520431387",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.521890180986226",
+        "lng": "-0.15479229520431387",
+        "anim": "0",
+        "title": "Tesco Express Marylebone Baker St",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "714",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52450696022101, -0.14681004157844404",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52450696022101",
+        "lng": "-0.14681004157844404",
+        "anim": "0",
+        "title": "Tesco Express Euston",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "715",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.524987576789094, -0.1340212686527784",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.524987576789094",
+        "lng": "-0.1340212686527784",
+        "anim": "0",
+        "title": "Tesco Express Tottenham Court Rd",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "716",
+        "categories": [
+            "2"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.510519514294465, -0.11445023117140377",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.510519514294465",
+        "lng": "-0.11445023117140377",
+        "anim": "0",
+        "title": "M&S Simply Food: Charing Cross Rail",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "717",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.520027019528435, -0.11273361735065678",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.520027019528435",
+        "lng": "-0.11273361735065678",
+        "anim": "0",
+        "title": "M&S Simply Food: Chancery Lane",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "718",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.51575422898911, -0.1111886649119845",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.51575422898911",
+        "lng": "-0.1111886649119845",
+        "anim": "0",
+        "title": "M&S Simply Food: Paternoster Sq",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "719",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50751265875271, -0.09101498229013635",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50751265875271",
+        "lng": "-0.09101498229013635",
+        "anim": "0",
+        "title": "M&S Simply Food: Bankside",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "720",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.52172070836727, -0.1286088249645174",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.52172070836727",
+        "lng": "-0.1286088249645174",
+        "anim": "0",
+        "title": "M&S Simply Food: Tottenham Court Rd",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "721",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50921327906718, -0.1522920611485823",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50921327906718",
+        "lng": "-0.1522920611485823",
+        "anim": "0",
+        "title": "M&S Simply Food:Green Park",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "722",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    },
+    {
+        "map_id": "50",
+        "address": "51.50504632409918, -0.12225131928551006",
+        "description": "",
+        "pic": "",
+        "link": "",
+        "icon": {
+            "url": "",
+            "retina": false
+        },
+        "lat": "51.50504632409918",
+        "lng": "-0.12225131928551006",
+        "anim": "0",
+        "title": "M&S Simply Food: Waterloo Rail",
+        "infoopen": "0",
+        "category": "",
+        "approved": "1",
+        "retina": "0",
+        "type": "0",
+        "did": "",
+        "other_data": "",
+        "sticky": "0",
+        "layergroup": "0",
+        "id": "723",
+        "categories": [
+            "23"
+        ],
+        "custom_field_data": [],
+        "custom_fields_html": ""
+    }
+]

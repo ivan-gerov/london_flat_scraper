@@ -1,0 +1,326 @@
+[
+  {
+    "address": "2 Massinger Street, London, United Kingdom",
+    "location": { "lat": "51.492075", "lon": "-0.083407" }
+  },
+  {
+    "address": "64-70 Camden High Street, London, United Kingdom",
+    "location": { "lat": "51.5364403", "lon": "-0.13999650000005204" }
+  },
+  {
+    "address": "189 Clapham Road, London SW9 0QE, United Kingdom",
+    "location": { "lat": "51.473680", "lon": "-0.121031" }
+  },
+  {
+    "address": "217-223 Kentish Town Road, London, United Kingdom",
+    "location": { "lat": "51.5475287", "lon": "-0.14181459999997514" }
+  },
+  {
+    "address": "71-73 Acre Lane, London, United Kingdom",
+    "location": { "lat": "51.459572", "lon": "-0.123950" }
+  },
+  {
+    "address": "3 Bellenden Road, London, United Kingdom",
+    "location": { "lat": "51.4726079", "lon": "-0.07173439999996845" }
+  },
+  {
+    "address": "51.46478164807265, -0.16729603725252673",
+    "location": { "lat": "51.46478164807265", "lon": "-0.16729603725252673" }
+  },
+  {
+    "address": "51.48998896818856, -0.0439854562500841",
+    "location": { "lat": "51.490168", "lon": "-0.044089" }
+  },
+  {
+    "address": "27-37 Well Street, London, United Kingdom",
+    "location": { "lat": "51.5407527", "lon": "-0.053911299999981566" }
+  },
+  {
+    "address": "269-271 Seven Sisters Road, London, United Kingdom",
+    "location": { "lat": "51.5651209", "lon": "-0.10451950000003762" }
+  },
+  {
+    "address": "306 Burdett Road, London, United Kingdom",
+    "location": { "lat": "51.5145692", "lon": "-0.028725600000029772" }
+  },
+  {
+    "address": "279-291 Balham High Road, London, United Kingdom",
+    "location": { "lat": "51.4362508", "lon": "-0.15820499999995263" }
+  },
+  {
+    "address": "51.4312344401508, -0.1295264661530382",
+    "location": { "lat": "51.431297", "lon": "-0.129642" }
+  },
+  {
+    "address": "51.562295830368264, -0.22098148008808494",
+    "location": { "lat": "51.562440", "lon": "-0.220618" }
+  },
+  {
+    "address": "14 Tooting High Street, London, United Kingdom",
+    "location": { "lat": "51.42911849999999", "lon": "-0.16715160000001106" }
+  },
+  {
+    "address": "Plough Lane, London SW17 0BW, United Kingdom",
+    "location": { "lat": "51.429305", "lon": "-0.185397" }
+  },
+  {
+    "address": "London E15 1XE, United Kingdom",
+    "location": { "lat": "51.5418249", "lon": "-0.0004288999999744192" }
+  },
+  {
+    "address": "88-92 High Road, London N22 6HE, United Kingdom",
+    "location": { "lat": "51.5942247", "lon": "-0.10781259999998838" }
+  },
+  {
+    "address": "104 -120 Lee High Road, London, United Kingdom",
+    "location": { "lat": "51.46062269999999", "lon": "-0.005600299999969138" }
+  },
+  {
+    "address": "51.419731377241256,-0.16345104577339953",
+    "location": { "lat": "51.420005", "lon": "-0.163357" }
+  },
+  {
+    "address": "51.58671946823574, -0.060773313089157455",
+    "location": { "lat": "51.587085", "lon": "-0.061897" }
+  },
+  {
+    "address": "51.44422416732198,-0.01887166639789939",
+    "location": { "lat": "51.443774", "lon": "-0.018774" }
+  },
+  {
+    "address": "1 Hermitage Lane, London, United Kingdom",
+    "location": { "lat": "51.414337", "lon": "-0.123725" }
+  },
+  {
+    "address": "106 Sydenham Road, London, United Kingdom",
+    "location": { "lat": "51.425556", "lon": "-0.047956" }
+  },
+  {
+    "address": "216 Rowan Rd, Mitcham, United Kingdom",
+    "location": { "lat": "51.4115147", "lon": "-0.14011759999993956" }
+  },
+  {
+    "address": "43-49 High Street, London E17 7LD, United Kingdom",
+    "location": { "lat": "51.5820087", "lon": "-0.0321636999999555" }
+  },
+  {
+    "address": "51.426804816061114, -0.02649468253366649",
+    "location": { "lat": "51.426905", "lon": "-0.026561" }
+  },
+  {
+    "address": "4-14 Blackbird Hill, London, United Kingdom",
+    "location": { "lat": "51.56463609999999", "lon": "-0.2638782999999876" }
+  },
+  {
+    "address": "9-17 Western Road, Mitcham, Greater London CR4 3ED, United Kingdom",
+    "location": { "lat": "51.4058528", "lon": "-0.16619990000003781" }
+  },
+  {
+    "address": "183-189 High Street, London SE20 7PF, United Kingdom",
+    "location": { "lat": "51.4135742", "lon": "-0.05130239999994046" }
+  },
+  {
+    "address": "51.39657431652997, -0.11583888670429587",
+    "location": { "lat": "51.396650", "lon": "-0.115442" }
+  },
+  {
+    "address": "51.561236165722825, -0.2810659110764391",
+    "location": { "lat": "51.561576", "lon": "-0.281381" }
+  },
+  {
+    "address": "51.40155137186609, -0.19381088022782933",
+    "location": { "lat": "51.401431", "lon": "-0.193994" }
+  },
+  {
+    "address": "6-16 Sterling Way, London N18 2XZ, United Kingdom",
+    "location": { "lat": "51.6144431", "lon": "-0.06518270000003668" }
+  },
+  {
+    "address": "198 Tollgate Road, London E6 5YA, United Kingdom",
+    "location": { "lat": "51.5160783", "lon": "0.054434799999967254" }
+  },
+  {
+    "address": "182-188 High Street North, London E6 2JA, United Kingdom",
+    "location": { "lat": "51.5387026", "lon": "0.05201390000001993" }
+  },
+  {
+    "address": "135 High Street, Beckenham, Greater London BR3 1AG, United Kingdom",
+    "location": { "lat": "51.4067161", "lon": "-0.027945000000045184" }
+  },
+  {
+    "address": "51.492425551370125, 0.06588613978237845",
+    "location": { "lat": "51.492294", "lon": "0.066071" }
+  },
+  {
+    "address": "51.50989399235307, -0.3243593580555171",
+    "location": { "lat": "51.50989399235307", "lon": "-0.3243593580555171" }
+  },
+  {
+    "address": "51.6229282589993, -0.0585110038628045",
+    "location": { "lat": "51.622944", "lon": "-0.058568" }
+  },
+  {
+    "address": "99 London Rd, Croydon, United Kingdom",
+    "location": { "lat": "51.38091379999999", "lon": "-0.10565829999995913" }
+  },
+  {
+    "address": "137 Eltham High Street, London SE9 1TQ, United Kingdom",
+    "location": { "lat": "51.4507488", "lon": "0.055925699999988865" }
+  },
+  {
+    "address": "90-94 Uxbridge Road, London, United Kingdom",
+    "location": { "lat": "51.5079539", "lon": "-0.33626110000000153" }
+  },
+  {
+    "address": "51.4000932185468, -0.25404775151400827",
+    "location": { "lat": "51.400057", "lon": "-0.253969" }
+  },
+  {
+    "address": "62-68 Ripple Road, Barking, United Kingdom",
+    "location": { "lat": "51.536051", "lon": "0.08178339999994932" }
+  },
+  {
+    "address": "76-78 Church Street, Croydon, Greater London CR0 1RB, United Kingdom",
+    "location": { "lat": "51.373662", "lon": "-0.10374879999994846" }
+  },
+  {
+    "address": "155-161 High Road, Ilford IG1 1DE, United Kingdom",
+    "location": { "lat": "51.559120", "lon": "0.073975" }
+  },
+  {
+    "address": "261-275 High Rd, Ilford IG1 1NJ, United Kingdom",
+    "location": { "lat": "51.5605899", "lon": "0.07898590000002059" }
+  },
+  {
+    "address": "51-55 High Street, Edgware HA8 7DD, United Kingdom",
+    "location": { "lat": "51.6096646", "lon": "-0.27885969999999816" }
+  },
+  {
+    "address": "309 Ruislip Road East, Greenford, Greater London UB6 9FH, United Kingdom",
+    "location": { "lat": "51.5270231", "lon": "-0.3506972999999789" }
+  },
+  {
+    "address": "Cecil Road, Enfield, Greater London EN2 6TR, United Kingdom",
+    "location": { "lat": "51.65020819999999", "lon": "-0.0804740999999467" }
+  },
+  {
+    "address": "Beddington Gardens, Wallington, United Kingdom",
+    "location": { "lat": "51.35951275126938", "lon": "-0.15006091003419897" }
+  },
+  {
+    "address": "51.37528645140564, -0.012182415230199695",
+    "location": { "lat": "51.375213", "lon": "-0.011961" }
+  },
+  {
+    "address": "46-60 Upper Wickham Lane, Welling DA16 3HF, United Kingdom",
+    "location": { "lat": "51.46418621404046", "lon": "0.10840635396732523" }
+  },
+  {
+    "address": "1b Eynsham Drive, London SE2 9RQ, United Kingdom",
+    "location": { "lat": "51.495903", "lon": "0.11601999999993495" }
+  },
+  {
+    "address": "57-78 High Street, Southall UB1 3DB, United Kingdom",
+    "location": { "lat": "51.5106045", "lon": "-0.37289609999993445" }
+  },
+  {
+    "address": "38 High Street Whitton, Twickenham, United Kingdom",
+    "location": { "lat": "51.4524937", "lon": "-0.3580617000000075" }
+  },
+  {
+    "address": "807-829 Longbridge Road, Dagenham RM8 2DB, United Kingdom",
+    "location": { "lat": "51.5518978", "lon": "0.11267290000000685" }
+  },
+  {
+    "address": "80-82 The Broadway, Stanmore HA7 4DU, United Kingdom",
+    "location": { "lat": "51.6183036", "lon": "-0.3084413000000268" }
+  },
+  {
+    "address": "250-260 Fencepiece Road, Ilford IG6 2ST, United Kingdom",
+    "location": { "lat": "51.603640", "lon": "0.084807" }
+  },
+  {
+    "address": "250-260 Fencepiece Road, Ilford IG6 2ST, United Kingdom",
+    "location": { "lat": "51.6036399", "lon": "0.08480659999997897" }
+  },
+  {
+    "address": "51.5696229327701, 0.12195745075587183",
+    "location": { "lat": "51.569929", "lon": "0.122071" }
+  },
+  {
+    "address": "Parkway, New Addington, London Borough of Croydon CR0 0LA, United Kingdom",
+    "location": { "lat": "51.34650523973979", "lon": "-0.019797851589942184" }
+  },
+  {
+    "address": "258-262 Heathway, Dagenham RM10 8QS, United Kingdom",
+    "location": { "lat": "51.5420848", "lon": "0.14852970000004007" }
+  },
+  {
+    "address": "482-486 Uxbridge Road, Hayes UB4 0SD, United Kingdom",
+    "location": { "lat": "51.5189866", "lon": "-0.4096312000000353" }
+  },
+  {
+    "address": "Foots Cray High Street, Sidcup DA14 5HJ, United Kingdom",
+    "location": { "lat": "51.41831914699412", "lon": "0.11906288413092625" }
+  },
+  {
+    "address": "Borehamwood WD6 4PR, United Kingdom",
+    "location": { "lat": "51.65563820164635", "lon": "-0.2779304613769682" }
+  },
+  {
+    "address": "330 Crofton Road, Orpington BR6 8NW, United Kingdom",
+    "location": { "lat": "51.368073", "lon": "0.05601950000004763" }
+  },
+  {
+    "address": "69 Bridge Street, Pinner HA5 3HZ, United Kingdom",
+    "location": { "lat": "51.59518569999999", "lon": "-0.3854065000000446" }
+  },
+  {
+    "address": "Feltham TW14 9BG, United Kingdom",
+    "location": { "lat": "51.448681", "lon": "-0.409293" }
+  },
+  {
+    "address": "64 Leatherhead Road, Chessington KT9 2HY, United Kingdom",
+    "location": { "lat": "51.3606804", "lon": "-0.3102498000000651" }
+  },
+  {
+    "address": "High Street, Waltham Cross EN8 7AA, United Kingdom",
+    "location": { "lat": "51.68290783650141", "lon": "-0.03298752380374026" }
+  },
+  {
+    "address": "Cartersfield Road, Waltham Abbey EN9 1JD, United Kingdom",
+    "location": { "lat": "51.6822803", "lon": "-0.0008100999999669511" }
+  },
+  {
+    "address": "51.573838990955664, 0.1830716728727566",
+    "location": { "lat": "51.573838990955664", "lon": "0.1830716728727566" }
+  },
+  {
+    "address": "51.50349091088034, -0.21949624875560403",
+    "location": { "lat": "51.50349091088034", "lon": "-0.21949624875560403" }
+  },
+  {
+    "address": "Wrythe Lane, Carshalton SM5 1AD, UK",
+    "location": { "lat": "51.3837412", "lon": "-0.1890730000000076" }
+  },
+  {
+    "address": "Beulah Hill, London SE19 3HD, UK",
+    "location": { "lat": "51.4221273", "lon": "-0.10604799999998704" }
+  },
+  {
+    "address": "High St, London W3 6RE, UK",
+    "location": { "lat": "51.50679", "lon": "-0.2694262999999637" }
+  },
+  {
+    "address": "Selborne Road, Walthamstow, London E17 7JR, UK",
+    "location": { "lat": "51.5828814", "lon": "-0.02201300000001538" }
+  },
+  {
+    "address": "High St, Hornchurch RM11 1TP, UK",
+    "location": { "lat": "51.56300719999999", "lon": "0.21499859999994442" }
+  },
+  {
+    "address": "145 Tottenham Court Rd, London W1T 7NE, UK",
+    "location": { "lat": "51.5242118", "lon": "-0.1373033" }
+  }
+]

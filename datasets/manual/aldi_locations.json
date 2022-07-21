@@ -1,0 +1,1517 @@
+[
+  {
+    "code": "s-uk-E1277",
+    "name": "ALDI - Unit 681 - 689 Holloway Rd",
+    "distance": "4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.565138, "lng": -0.13385897 },
+    "address": ["Archway", "N19 5SE"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1290",
+    "name": "ALDI - 163 - 165 Balham High Road",
+    "distance": "4.5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.443644, "lng": -0.1523182 },
+    "address": ["London", "SW12 9AU"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1438",
+    "name": "ALDI - Unit 6, Arena Shopping Park",
+    "distance": "5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.576626, "lng": -0.09668693 },
+    "address": ["London", "N4 1ED"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1574",
+    "name": "ALDI - O2, Centre, 255 Finchley Rd",
+    "distance": "5.3 Miles",
+    "description": "",
+    "latlng": { "lat": 51.57092, "lng": -0.19523 },
+    "address": ["London", "NW3 6LU"],
+    "features": [],
+    "openingTimes": [
+      { "day": "Mon", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Tue", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Wed", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Thu", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Fri", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Sat", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Sun", "hours": "Closed", "closed": true, "special": false }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1477",
+    "name": "ALDI - Greenwich High Road",
+    "distance": "5.4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.479155, "lng": -0.01103 },
+    "address": ["London", "SE10 8NB"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1277",
+    "name": "ALDI - Unit 681 - 689 Holloway Rd",
+    "distance": "4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.565138, "lng": -0.13385897 },
+    "address": ["Archway", "N19 5SE"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1290",
+    "name": "ALDI - 163 - 165 Balham High Road",
+    "distance": "4.5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.443644, "lng": -0.1523182 },
+    "address": ["London", "SW12 9AU"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1438",
+    "name": "ALDI - Unit 6, Arena Shopping Park",
+    "distance": "5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.576626, "lng": -0.09668693 },
+    "address": ["London", "N4 1ED"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1574",
+    "name": "ALDI - O2, Centre, 255 Finchley Rd",
+    "distance": "5.3 Miles",
+    "description": "",
+    "latlng": { "lat": 51.57092, "lng": -0.19523 },
+    "address": ["London", "NW3 6LU"],
+    "features": [],
+    "openingTimes": [
+      { "day": "Mon", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Tue", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Wed", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Thu", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Fri", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Sat", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Sun", "hours": "Closed", "closed": true, "special": false }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1477",
+    "name": "ALDI - Greenwich High Road",
+    "distance": "5.4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.479155, "lng": -0.01103 },
+    "address": ["London", "SE10 8NB"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "5"
+  },
+  {
+    "code": "s-uk-E1174",
+    "name": "ALDI - 350 Streatham High Road",
+    "distance": "5.6 Miles",
+    "description": "",
+    "latlng": { "lat": 51.426187, "lng": -0.131659 },
+    "address": ["London", "SW16 6HP"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "10"
+  },
+  {
+    "code": "s-uk-E0952",
+    "name": "ALDI - 35 Tooting High Street",
+    "distance": "5.7 Miles",
+    "description": "",
+    "latlng": { "lat": 51.4287969, "lng": -0.1688908 },
+    "address": ["Tooting", "SW17 0SP"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "10"
+  },
+  {
+    "code": "s-uk-E1099",
+    "name": "ALDI - 18 Heybridge Way",
+    "distance": "6 Miles",
+    "description": "",
+    "latlng": { "lat": 51.569149, "lng": -0.03011 },
+    "address": ["Leyton", "E10 7NQ"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "10"
+  },
+  {
+    "code": "s-uk-E0327",
+    "name": "ALDI - Rushey Green",
+    "distance": "6.2 Miles",
+    "description": "",
+    "latlng": { "lat": 51.44882, "lng": -0.01747 },
+    "address": ["Catford", "SE6 4JD"],
+    "features": ["parking"],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "10"
+  },
+  {
+    "code": "s-uk-E0364",
+    "name": "ALDI - 570-592 High Road",
+    "distance": "6.4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.59216, "lng": -0.06978 },
+    "address": ["Tottenham, London", "N17 9TA"],
+    "features": ["parking"],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "10"
+  },
+  {
+    "code": "s-uk-E1023",
+    "name": "ALDI - 2 Brocklebank Rd",
+    "distance": "6.6 Miles",
+    "description": "",
+    "latlng": { "lat": 51.49059, "lng": 0.02206 },
+    "address": ["Charlton", "SE7 7FR"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "15"
+  },
+  {
+    "code": "s-uk-E1283",
+    "name": "ALDI - Bell Green RP, Sydenham",
+    "distance": "6.6 Miles",
+    "description": "",
+    "latlng": { "lat": 51.431206, "lng": -0.036625 },
+    "address": ["London", "SE26 4PU"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "15"
+  },
+  {
+    "code": "s-uk-E1321",
+    "name": "ALDI - Priory Retail Park",
+    "distance": "6.7 Miles",
+    "description": "",
+    "latlng": { "lat": 51.415542, "lng": -0.17885094 },
+    "address": ["Colliers Wood", "SW19 2PP"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "15"
+  },
+  {
+    "code": "s-uk-E1351",
+    "name": "ALDI - 241 Kidbrooke Park Road",
+    "distance": "7.4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.463678, "lng": 0.02895311 },
+    "address": ["Kidbrooke", "SE3 9PP"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "15"
+  },
+  {
+    "code": "s-uk-E0605",
+    "name": "ALDI - 97 Croydon Road",
+    "distance": "7.4 Miles",
+    "description": "",
+    "latlng": { "lat": 51.40888, "lng": -0.05897 },
+    "address": ["Anerley", "SE20 7SX"],
+    "features": ["parking"],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "15"
+  },
+  {
+    "code": "s-uk-E0594",
+    "name": "ALDI - Ballards Lane, Tally Ho Cnr",
+    "distance": "7.6 Miles",
+    "description": "",
+    "latlng": { "lat": 51.61345, "lng": -0.17662 },
+    "address": ["North Finchley, London", "N12 0ER"],
+    "features": ["parking"],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "20"
+  },
+  {
+    "code": "s-uk-E0988",
+    "name": "ALDI - 18-20 Station Road",
+    "distance": "7.9 Miles",
+    "description": "",
+    "latlng": { "lat": 51.3976, "lng": -0.07648 },
+    "address": ["South Norwood", "SE25 5AJ"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "20"
+  },
+  {
+    "code": "s-uk-E1164",
+    "name": "ALDI - Unit 47C, Capitol Way",
+    "distance": "8.2 Miles",
+    "description": "",
+    "latlng": { "lat": 51.59410426, "lng": -0.25681317 },
+    "address": ["Colindale", "NW9 0AW"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "20"
+  },
+  {
+    "code": "s-uk-E0353",
+    "name": "ALDI - 632-640 Kingsbury Road",
+    "distance": "8.5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.58494, "lng": -0.27997 },
+    "address": ["Kingsbury, London", "NW9 9HN"],
+    "features": ["parking"],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "07:00&nbsp;&ndash;&nbsp;23:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "20"
+  },
+  {
+    "code": "s-uk-E1237",
+    "name": "ALDI - Purley Way",
+    "distance": "9.3 Miles",
+    "description": "",
+    "latlng": { "lat": 51.372892, "lng": -0.11855632 },
+    "address": ["Croydon", "CR0 4XJ"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "20"
+  },
+  {
+    "code": "s-uk-E0991",
+    "name": "ALDI - 205-217 Kingston Road",
+    "distance": "9.5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.404137, "lng": -0.272346 },
+    "address": ["New Malden", "KT3 3SY"],
+    "features": ["parking"],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "25"
+  },
+  {
+    "code": "s-uk-E1538",
+    "name": "ALDI - 205 Old Street",
+    "distance": "9.5 Miles",
+    "description": "",
+    "latlng": { "lat": 51.525655, "lng": 0.09051747 },
+    "address": ["London", "EC1V 9QN"],
+    "features": [],
+    "openingTimes": [
+      { "day": "Mon", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Tue", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Wed", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Thu", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Fri", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Sat", "hours": "Closed", "closed": true, "special": false },
+      { "day": "Sun", "hours": "Closed", "closed": true, "special": false }
+    ],
+    "selectedPage": "25"
+  },
+  {
+    "code": "s-uk-E1244",
+    "name": "ALDI - 30 Brookhill Road",
+    "distance": "9.6 Miles",
+    "description": "",
+    "latlng": { "lat": 51.644816, "lng": -0.16393259 },
+    "address": ["Barnet", "EN4 8SL"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "25"
+  },
+  {
+    "code": "s-uk-E1313",
+    "name": "ALDI - 673 London Road",
+    "distance": "9.9 Miles",
+    "description": "",
+    "latlng": { "lat": 51.376903, "lng": -0.2221851 },
+    "address": ["North Cheam", "SM3 9DL"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "10:00&nbsp;&ndash;&nbsp;16:00",
+        "closed": false,
+        "special": false
+      }
+    ],
+    "selectedPage": "25"
+  },
+  {
+    "code": "s-uk-E1085",
+    "name": "ALDI - 13 Adams Walk",
+    "distance": "10.1 Miles",
+    "description": "",
+    "latlng": { "lat": 51.4103148, "lng": -0.3013135 },
+    "address": ["Kingston Upon Thames", "KT11DF"],
+    "features": [],
+    "openingTimes": [
+      {
+        "day": "Mon",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Tue",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Wed",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Thu",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Fri",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sat",
+        "hours": "08:00&nbsp;&ndash;&nbsp;22:00",
+        "closed": false,
+        "special": false
+      },
+      {
+        "day": "Sun",
+        "hours": "11:00&nbsp;&ndash;&nbsp;17:00",
+        "closed": false,
+        "special": true
+      }
+    ],
+    "selectedPage": "25"
+  }
+]

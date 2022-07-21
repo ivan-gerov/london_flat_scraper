@@ -1,0 +1,362 @@
+[
+  {
+    "fsq_id": "5eb2930a5870da000885fa41",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 2376,
+    "geocodes": {
+      "main": { "latitude": 51.524085, "longitude": -0.137083 },
+      "roof": { "latitude": 51.524085, "longitude": -0.137083 }
+    },
+    "link": "/v3/places/5eb2930a5870da000885fa41",
+    "location": {
+      "address": "145 Tottenham Ct Rd",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "145 Tottenham Ct Rd, London, Greater London, W1T 7NE",
+      "locality": "London",
+      "post_town": "London",
+      "postcode": "W1T 7NE",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "55845239498e05c772b04f3c",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 2957,
+    "geocodes": {
+      "main": { "latitude": 51.547451, "longitude": -0.141749 },
+      "roof": { "latitude": 51.547451, "longitude": -0.141749 }
+    },
+    "link": "/v3/places/55845239498e05c772b04f3c",
+    "location": {
+      "address": "Kentish Town Rd 217-223",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "Kentish Town Rd 217-223, London, Greater London, NW5 2JU",
+      "locality": "London",
+      "neighborhood": ["Kentish Town"],
+      "post_town": "London",
+      "postcode": "NW5 2JU",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "4aeaae79f964a5200ebc21e3",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 3702,
+    "geocodes": {
+      "main": { "latitude": 51.540553, "longitude": -0.053864 },
+      "roof": { "latitude": 51.540553, "longitude": -0.053864 }
+    },
+    "link": "/v3/places/4aeaae79f964a5200ebc21e3",
+    "location": {
+      "address": "Well St 27-37",
+      "admin_region": "England",
+      "country": "GB",
+      "formatted_address": "Well St 27-37, London, Greater London, E9 7QX",
+      "locality": "London",
+      "post_town": "London",
+      "postcode": "E9 7QX",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "5f87db0bc7b663373fe321f1",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 2853,
+    "geocodes": {
+      "main": { "latitude": 51.557242, "longitude": -0.118194 },
+      "roof": { "latitude": 51.557242, "longitude": -0.118194 }
+    },
+    "link": "/v3/places/5f87db0bc7b663373fe321f1",
+    "location": {
+      "address": "422-434 Holloway Rd",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "422-434 Holloway Rd, London, Greater London, N7 6QD",
+      "locality": "London",
+      "post_town": "London",
+      "postcode": "N7 6QD",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "4ce815dff3bda143d60db7e4",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 2407,
+    "geocodes": {
+      "main": { "latitude": 51.536316, "longitude": -0.140458 },
+      "roof": { "latitude": 51.536316, "longitude": -0.140458 }
+    },
+    "link": "/v3/places/4ce815dff3bda143d60db7e4",
+    "location": {
+      "address": "64-70 Camden High St",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "64-70 Camden High St, Camden, Greater London, NW1 0LT",
+      "locality": "London",
+      "post_town": "London",
+      "postcode": "NW1 0LT",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "4bf23cc3324cc9b6d0eccc92",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 3580,
+    "geocodes": {
+      "main": { "latitude": 51.56496, "longitude": -0.104327 },
+      "roof": { "latitude": 51.56496, "longitude": -0.104327 }
+    },
+    "link": "/v3/places/4bf23cc3324cc9b6d0eccc92",
+    "location": {
+      "address": "269-271 Seven Sisters Rd",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "Finsbury Park Rd",
+      "formatted_address": "269-271 Seven Sisters Rd (Finsbury Park Rd), London, Greater London, N4 2DE",
+      "locality": "London",
+      "neighborhood": ["Finsbury Park"],
+      "post_town": "London",
+      "postcode": "N4 2DE",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "4bc618d9f360ef3b8523db2d",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 5727,
+    "geocodes": {
+      "main": { "latitude": 51.51445, "longitude": -0.028661 },
+      "roof": { "latitude": 51.51445, "longitude": -0.028661 }
+    },
+    "link": "/v3/places/4bc618d9f360ef3b8523db2d",
+    "location": {
+      "address": "306 Burdett Rd",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "306 Burdett Rd, Poplar, Greater London, E14 7DL",
+      "locality": "Poplar",
+      "post_town": "London",
+      "postcode": "E14 7DL",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "52505cf211d2b2e027a4e2b3",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 6650,
+    "geocodes": {
+      "main": { "latitude": 51.473558, "longitude": -0.120635 },
+      "roof": { "latitude": 51.473558, "longitude": -0.120635 }
+    },
+    "link": "/v3/places/52505cf211d2b2e027a4e2b3",
+    "location": {
+      "address": "189 Clapham Rd",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "189 Clapham Rd, London, Greater London, SW9 0QE",
+      "locality": "London",
+      "neighborhood": ["Stockwell"],
+      "post_town": "London",
+      "postcode": "SW9 0QE",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "5cd1569567e5f2002c297b9a",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 4800,
+    "geocodes": {
+      "main": { "latitude": 51.491839, "longitude": -0.083258 },
+      "roof": { "latitude": 51.491839, "longitude": -0.083258 }
+    },
+    "link": "/v3/places/5cd1569567e5f2002c297b9a",
+    "location": {
+      "address": "2 Massinger St",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "Massinger St",
+      "formatted_address": "2 Massinger St (Massinger St), London, Greater London, SE17 1TY",
+      "locality": "London",
+      "post_town": "London",
+      "postcode": "SE17 1TY",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  },
+  {
+    "fsq_id": "4ba95977f964a52005213ae3",
+    "categories": [
+      {
+        "id": 17069,
+        "name": "Grocery Store / Supermarket",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      { "id": "2fcc4bf0-9c63-0132-6632-3c15c2dde6c8", "name": "LIDL" }
+    ],
+    "distance": 6404,
+    "geocodes": {},
+    "link": "/v3/places/4ba95977f964a52005213ae3",
+    "location": {
+      "address": "Bestwood St",
+      "admin_region": "England",
+      "country": "GB",
+      "cross_street": "",
+      "formatted_address": "Bestwood St, Southwark, Greater London, SE8 5AW",
+      "locality": "London",
+      "neighborhood": ["Homerton"],
+      "post_town": "London",
+      "postcode": "SE8 5AW",
+      "region": "Greater London"
+    },
+    "name": "Lidl",
+    "related_places": {},
+    "timezone": "Europe/London"
+  }
+]
