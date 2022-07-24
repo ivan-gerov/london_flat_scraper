@@ -3,10 +3,9 @@ import re
 from dateutil import parser
 from datetime import datetime, timedelta
 
-from marshmallow import Schema, fields, post_load, pre_load, EXCLUDE
+from marshmallow import Schema, fields, pre_load, EXCLUDE
 
-from .constants import POIS
-from .models import Property
+from london_flat_scraper.constants import POIS
 
 pois = [os.path.splitext(poi_file)[0] for poi_file in os.listdir(POIS)]
 poi_fields = {f"closest_{poi}": fields.Float() for poi in pois}
@@ -30,6 +29,7 @@ class PropertySchema(Schema, PoiFields):
     url = fields.Url()
     channel = fields.String()
     minutes_from_TCR = fields.Integer()
+    crime_rates = fields.Integer()
 
     @pre_load
     def process_price(self, data, **kwargs):

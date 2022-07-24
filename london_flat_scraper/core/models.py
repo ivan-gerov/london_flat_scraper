@@ -34,6 +34,7 @@ class Property(Base):
     closest_lidl = Column(Float)
     closest_boots = Column(Float)
     minutes_from_TCR = Column(Integer)
+    crime_rates = Column(Integer)
 
     def __init__(
         self,
@@ -53,6 +54,7 @@ class Property(Base):
         closest_lidl=None,
         closest_boots=None,
         minutes_from_TCR=None,
+        crime_rates=None,
         **kwargs,
     ):
         self.property_id = property_id
@@ -71,6 +73,7 @@ class Property(Base):
         self.minutes_from_TCR = minutes_from_TCR
         self.date_available = date_available
         self.date_added = date_added
+        self.crime_rates = crime_rates
 
     def create(self):
         properties = (

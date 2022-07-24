@@ -11,9 +11,13 @@ import requests
 import geopy.distance
 from bs4 import BeautifulSoup
 
-from .models import Property, session
-from .constants import API_KEYS, POIS, TOTENHAM_COURT_ROAD_COORDINATES, DATASETS
-from .schemas import PropertySchema
+from london_flat_scraper.core.models import Property, session
+from london_flat_scraper.constants import (
+    API_KEYS,
+    POIS,
+    TOTENHAM_COURT_ROAD_COORDINATES,
+)
+from london_flat_scraper.core.schemas import PropertySchema
 
 config = ConfigParser()
 config.read(API_KEYS)
@@ -62,9 +66,6 @@ class RightmoveScraperV2:
     @staticmethod
     def _scrape_properties(api_url, api_params):
         start_page = json.loads(requests.get(api_url, params=api_params).text)
-
-        with open("./datasets/example_response.json", "w") as f:
-            json.dump(start_page, f)
         properties = [*start_page["properties"]]
         pages = [
             page["value"]
@@ -80,6 +81,7 @@ class RightmoveScraperV2:
     def process_additional_info(self):
         poi_names = [os.path.splitext(poi_file)[0] for poi_file in os.listdir(POIS)]
 
+        processing_times = []
         for property in self.properties:
             property_lat_long = tuple(property["location"].values())
 
@@ -88,6 +90,7 @@ class RightmoveScraperV2:
 
             # Distance from POIS (Place of Interest)
             for poi in poi_names:
+
                 property[f"closest_{poi}"] = self.get_distance_from_closest_poi(
                     property_lat_long, poi
                 )
@@ -96,6 +99,9 @@ class RightmoveScraperV2:
             property["minutes_from_TCR"] = self.get_distance_from_main_poi(
                 property_lat_long, TOTENHAM_COURT_ROAD_COORDINATES
             )
+
+            # Get number of crimes in the last month
+            property["crime_rates"] = self.get_crime_data_last_month(property_lat_long)
 
     @staticmethod
     def get_available_date(property_id):
@@ -152,21 +158,14 @@ class RightmoveScraperV2:
             poi_data = json.load(f)
 
         closest_distance = None
-        for poi_place in poi_data:
-            try:
-                poi_place_coordinates = poi_place["geocodes"]["main"]
-            except KeyError:
-                continue
-
+        for poi_place_coordinates in poi_data:
             distance = geopy.distance.geodesic(
-                property_lat_lon, tuple(poi_place_coordinates.values())
+                property_lat_lon, tuple(poi_place_coordinates)
             ).km
             if closest_distance and distance < closest_distance:
                 closest_distance = distance
             elif not closest_distance:
                 closest_distance = distance
-            else:
-                pass
 
         return round(closest_distance, 2)
 
@@ -191,3 +190,10 @@ class RightmoveScraperV2:
 
         data = json.loads(response.text)
         return int(data["transit_time_minutes"])
+
+    @staticmethod
+    def get_crime_data_last_month(property_lat_lon):
+        url = "https://data.police.uk/api/stops-street?"
+        params = {"lat": property_lat_lon[0], "lng": property_lat_lon[1]}
+        response = json.loads(requests.get(url, params=params).text)
+        return len(response)

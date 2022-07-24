@@ -11,7 +11,7 @@ from rightmove_webscraper import RightmoveData
 from bs4 import BeautifulSoup
 
 from .models import Flat, session
-from .constants import API_KEYS, POIS, TOTENHAM_COURT_ROAD_COORDINATES
+from ..constants import API_KEYS, POIS, TOTENHAM_COURT_ROAD_COORDINATES
 
 OR = "%2C"
 URL = "https://www.rightmove.co.uk/property-to-rent/find.html?"

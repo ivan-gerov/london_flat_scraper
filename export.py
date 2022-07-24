@@ -1,5 +1,5 @@
-from core.models import Property
-from core.scraper_v2 import RightmoveScraperV2
+from london_flat_scraper.core.models import Property
+from london_flat_scraper.core.scraper_v2 import RightmoveScraperV2
 
 Property.remove_obsolete()
 scraper = RightmoveScraperV2(
@@ -7,3 +7,4 @@ scraper = RightmoveScraperV2(
     additional_info=True,
 )
 scraper.store()
+
